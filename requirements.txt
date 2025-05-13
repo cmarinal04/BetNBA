@@ -1,0 +1,8 @@
+nba_api
+pandas
+scikit-learn
+matplotlib
+beautifulsoup4
+fake-useragent
+selenium
+openpyxl
